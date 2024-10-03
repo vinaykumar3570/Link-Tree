@@ -147,13 +147,12 @@ main {
 .img-box {
   height: 150px;
   width: 150px;
-  background-image: url("images/profile.jpg");
+  background-image: url("images/profile1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-border-radius: 100px;
   border-radius: 100px;
-  /* background: #D1D8EC; */
   -webkit-box-shadow: 6px 6px 14px #a5abba, -6px -6px 14px #fdffff;
   box-shadow: 6px 6px 14px #a5abba, -6px -6px 14px #fdffff;
 }
